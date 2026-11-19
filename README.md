@@ -1,11 +1,11 @@
-# Chinmay Patel - AI | Software Engg
+# Chinmay Patel - Product & Platform Engineer in the field of AI | Data | Software
 
 ## Dayton, NJ
 ## [pchinmay16@yahoo.com](mailto:pchinmay16@yahoo.com) || [connect2chpatel@gmail.com](mailto:connect2chpatel@gmail.com)
 ## [LinkedIn](https://linkedin.com/in/33Chinmay)
 
 ### Summary
-* Principal Software Engineer with 15+ years of experience in Oracle technologies, enterprise architecture, distributed systems, cloud-native applications, and AI engineering.
+* Principal Software Engineer with 15+ years of experience in Oracle technologies, enterprise architecture, distributed systems, cloud-native application development, and AI engineering.
 * Brings extensive expertise in Oracle Coherence, WebLogic, Oracle Fusion Middleware, OCI, Java, Python, REST APIs, and enterprise integrations.
 * Has experience developing a RAG-based AI agent for Oracle documentation using Oracle Coherence as a vector store, Cohere models, Google ADK, and LangChain4J.
 * AI expertise includes LLM fine-tuning, prompt engineering, model evaluation, Python-based AI/ML pipelines, and agentic workflows.
@@ -49,10 +49,7 @@
 ### Oracle |  Jun 2006 – Sep 2025
 [+]  Principal Member of Technical Staff | Jan 2019 – Sep 2025
 - Contributed to Oracle Coherence core product development, delivering secure, highly available distributed in-memory data grid capabilities for enterprise applications, microservices, and cloud-native platforms.
-- Developed a Retrieval-Augmented Generation (RAG) AI agent for Oracle documentation using Oracle Coherence as a vector store, Cohere models, Google Agent Development Kit (ADK), and LangChain4J.
 - Applied AI agent development concepts, retrieval workflows, and vector search techniques to improve access to Oracle technical documentation.
-- Worked with AI/ML data pipelines, LLM fine-tuning, prompt engineering, evaluation rubrics, and ground-truth-based response assessment.
-- Built Python-based AI/ML evaluation workflows to assess model responses and support reliable output quality.
 - Integrated Oracle Coherence with Java-based microservices and cloud-native frameworks, including Spring, Helidon, and Micronaut, to support high-performance enterprise data access
 - Designed and implemented REST/JSON management APIs, JMX monitoring, health checks, and CohQL capabilities for distributed cache administration and observability
 - Integrated enterprise data services with Apache Spark, enabling distributed cache access through RDD and Dataset APIs
