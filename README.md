@@ -1,6 +1,8 @@
 # Chinmay Patel - AI | Software Engg
 
-## Dayton, NJ | [pchinmay16@yahoo.com](mailto:pchinmay16@yahoo.com) | linkedin.com/in/33Chinmay
+## Dayton, NJ
+## [pchinmay16@yahoo.com](mailto:pchinmay16@yahoo.com) || [connect2chpatel@gmail.com](mailto:connect2chpatel@gmail.com)
+## [LinkedIn](https://linkedin.com/in/33Chinmay)
 
 ### Summary
 * Principal Software Engineer with 15+ years of experience in Oracle technologies, enterprise architecture, distributed systems, cloud-native applications, and AI engineering.
