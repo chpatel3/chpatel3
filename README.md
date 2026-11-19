@@ -1,4 +1,4 @@
-# Chinmay Patel - Product & Platform Engineer in the field of AI | Data | Software
+# Chinmay Patel - Product & Platform Engineer - AI | Data | Software
 
 ## Dayton, NJ
 ## [pchinmay16@yahoo.com](mailto:pchinmay16@yahoo.com) || [connect2chpatel@gmail.com](mailto:connect2chpatel@gmail.com)
