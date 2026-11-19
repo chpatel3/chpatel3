@@ -1,6 +1,6 @@
 # Chinmay Patel - AI | Software Engg
 
-## Dayton, NJ | [pchinmay16@yahoo.com](mailto:pchinmay16@yahoo.com) | linkedkin.com/in/33Chinmay | US Citizen
+## Dayton, NJ | [pchinmay16@yahoo.com](mailto:pchinmay16@yahoo.com) | linkedin.com/in/33Chinmay
 
 ### Summary
 * Principal Software Engineer with 15+ years of experience in Oracle technologies, enterprise architecture, distributed systems, cloud-native applications, and AI engineering.
@@ -36,7 +36,7 @@
 
 ### Professional Experience
 
-** Alignerr.AI | Nov 2025 – Sep 2026 | AI Engineer
+### Alignerr.AI | Nov 2025 – Sep 2026 | AI Engineer
 - Built and maintained Python-based AI/ML data pipelines and model evaluation workflows to support AI research, long-context information tracking, and reliable response assessment.
 - Fine-tuned large language models (LLMs) for targeted use cases, developing prompt strategies, evaluation rubrics, and scoring criteria to improve model response quality.
 - Evaluated AI-generated responses against verifiable Ground Truth Final Answers (GTFA), assessing accuracy, relevance, and consistency.
@@ -44,8 +44,8 @@
 - Developed and refined prompt engineering and model evaluation approaches to support reliable AI outputs and improve automated assessment workflows.
 - Supported AI workflow automation and integration with developer tools to streamline software engineering tasks across multiple repositories.
 
-** Oracle |  Jun 2006 – Sep 2025
-*  Principal Member of Technical Staff | Jan 2019 – Sep 2025
+### Oracle |  Jun 2006 – Sep 2025
+[*]  Principal Member of Technical Staff | Jan 2019 – Sep 2025
 - Contributed to Oracle Coherence core product development, delivering secure, highly available distributed in-memory data grid capabilities for enterprise applications, microservices, and cloud-native platforms.
 - Developed a Retrieval-Augmented Generation (RAG) AI agent for Oracle documentation using Oracle Coherence as a vector store, Cohere models, Google Agent Development Kit (ADK), and LangChain4J.
 - Applied AI agent development concepts, retrieval workflows, and vector search techniques to improve access to Oracle technical documentation.
@@ -57,7 +57,8 @@
 - Automated cloud infrastructure provisioning and cross-platform regression testing using Terraform, Jenkins CI/CD, and GitHub workflows.
 - Delivered product enhancements, defect fixes, and security patches for Oracle Coherence 14.1.1 and 15.1.1, including vulnerability remediation and production issue resolution.
 - Collaborated with engineering and customer support teams on production diagnostics, root-cause analysis, security, and enterprise product reliability.
-**  Senior Member of Technical Staff | May 2012 – Dec 2018
+
+[*]  Senior Member of Technical Staff | May 2012 – Dec 2018
 - Developed and maintained Oracle WebLogic and Oracle Fusion Middleware web services, implementing JAX-WS client and server capabilities and enterprise integration functionality.
 - Designed and implemented cloud-native solutions on Oracle Cloud Infrastructure (OCI), supporting distributed caching services and enterprise application performance.
 - Part of team that developed Go-based Kubernetes controllers and operators to automate service management and DNS endpoint exposure in production Kubernetes environments.
@@ -67,7 +68,8 @@
 - Modernized build and integration pipelines by migrating from Ant to Maven and Gradle, improving build automation and release efficiency.
 - Contributed to open-source deployment assets supporting on-premises and OCI environments.
 - Collaborated across engineering and support teams to troubleshoot integration issues and deliver reliable enterprise middleware capabilities.
-** Member of Technical Staff | Jun 2006 – May 2012
+
+[*] Member of Technical Staff | Jun 2006 – May 2012
 - Developed Web Services Assembler tooling to generate JAX-RPC and JAX-WS client and server artifacts, including integration with Oracle JDeveloper.
 - Implemented and maintained web-service capabilities across Oracle Application Server and Oracle Fusion Middleware releases.
 - Developed endpoint testing tools and unit and functional tests for asynchronous web services, WS-Policy, and WS-AtomicTransaction.
