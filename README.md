@@ -38,7 +38,7 @@
 
 ### Professional Experience
 
-### **Alignerr.AI | Nov 2025 – Nov 2026 | AI Engineer**
+#### **Alignerr.AI | Nov 2025 – Nov 2026 | AI Engineer**
 - Built and maintained Python-based AI/ML data pipelines and model evaluation workflows to support AI research, long-context information tracking, and reliable response assessment.
 - Fine-tuned large language models (LLMs) for targeted use cases, developing prompt strategies, evaluation rubrics, and scoring criteria to improve model response quality.
 - Evaluated AI-generated responses against verifiable Ground Truth Final Answers (GTFA), assessing accuracy, relevance, and consistency.
@@ -46,7 +46,7 @@
 - Developed and refined prompt engineering and model evaluation approaches to support reliable AI outputs and improve automated assessment workflows.
 - Supported AI workflow automation and integration with developer tools to streamline software engineering tasks across multiple repositories.
 
-### **Oracle |  Jun 2006 – Sep 2025**
+#### **Oracle |  Jun 2006 – Sep 2025**
 [+]  Principal Member of Technical Staff | Jan 2019 – Sep 2025
 - Contributed to Oracle Coherence core product development, delivering secure, highly available distributed in-memory data grid capabilities for enterprise applications, microservices, and cloud-native platforms.
 - Applied AI agent development concepts, retrieval workflows, and vector search techniques to improve access to Oracle technical documentation.
